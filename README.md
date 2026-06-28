@@ -1,4 +1,4 @@
-![CI Pipeline](https://github.com/YOUR_USERNAME/flask-docker-ci/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/sandeep9948/flask-docker-ci/actions/workflows/ci.yml/badge.svg)
 
 # Dockerized Flask App with GitHub Actions CI
 
